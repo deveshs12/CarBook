@@ -25,7 +25,7 @@
 </template>
 
 <script setup>
-import ButtonComponent from '../composables/ButtonComponent.vue';
+import ButtonComponent from './ButtonComponent.vue';
 </script>
 
 <style>

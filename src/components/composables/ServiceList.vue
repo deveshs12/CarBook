@@ -20,7 +20,7 @@
 </template>
 
 <script setup>
-import SectionHeading from "../composables/SectionHeading.vue";
+import SectionHeading from "./SectionHeading.vue";
 import { ref } from "vue";
 import { AkHeart, IcCity, MaAirport } from "@kalimahapps/vue-icons";
 const events = ref([

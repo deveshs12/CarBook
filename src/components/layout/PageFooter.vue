@@ -77,9 +77,9 @@ const customerSupportLinks = [
 const contactInfo = [
   {
     icon: AkLocation,
-    text: "203/2, New York City, US",
+    text: "Crossing Republic, Ghaziabad, IND",
   },
-  { icon: AnOutlinedMail, text: "+2 392 3929 210" },
+  { icon: AnOutlinedMail, text: "+91 93442 34562" },
   { icon: BsTelephoneFill, text: "info@yourdomain.com" },
 ];
 </script>
